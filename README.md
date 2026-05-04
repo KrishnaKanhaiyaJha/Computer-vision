@@ -59,6 +59,12 @@ python main.py
 
 ---
 
+  ## 📸 Project Demo Screenshot
+
+![Demo Screenshot 1](Screenshot%202025-05-17%20165526.png)
+
+![Demo Screenshot 2](Screenshot%202025-05-17%20165935.png)
+
 ## ⚙️ Controls
 
 | Action      | Input Method     |
@@ -112,4 +118,4 @@ Increase or decrease the threshold for better blink detection.
 
 ---
 
-Enjoy controlling your computer with just your eyes! 👁️✨
+Enjoy controlling your computer with just your eyes! 👁️✨to add demo section this reame file
